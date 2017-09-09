@@ -1,6 +1,9 @@
 # OrangePi-ZERO-FAN-HAT
 FAN HAT for OrangePi ZERO
 
+![fan-hat-7](https://user-images.githubusercontent.com/6020549/30236881-e1022aa0-955f-11e7-981e-05ddf31f22e0.JPG)
+
+
 ----
 
 You can order your PCB by yourself.   
@@ -45,8 +48,6 @@ C1:47uF
 ![fan-hat-5](https://user-images.githubusercontent.com/6020549/30236877-cdc38128-955f-11e7-9f76-9d0f30d49631.JPG)
 
 ![fan-hat-6](https://user-images.githubusercontent.com/6020549/30236879-d510ee66-955f-11e7-84b1-5888b6e463aa.JPG)
-
-![fan-hat-7](https://user-images.githubusercontent.com/6020549/30236881-e1022aa0-955f-11e7-981e-05ddf31f22e0.JPG)
 
 ![fan-hat-9](https://user-images.githubusercontent.com/6020549/30236883-e5f5fdc0-955f-11e7-8895-50cc09fd9373.JPG)
 
