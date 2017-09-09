@@ -34,9 +34,9 @@ This is my order information.
 ----
 
 This HAT has IR Receiver Circuit:   
-R1:10Ohm   
-R2:20Ohm   
-R3:10Ohm   
+R1:100 Ohm   
+R2:200 Ohm   
+R3:100 Ohm   
 C1:47uF   
 J5:Fan Power   
 J3:IR receiver module   
