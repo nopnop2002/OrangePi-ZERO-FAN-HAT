@@ -53,7 +53,7 @@ J3:IR receiver module(5V,Gnd,Data)
 
 ----
 
-/sys/devices/virtual/thermal/thermal_zone0/temp.   
+Time,IP Address(Last 2 Octet),CPU Temp.   
 Line#1:ZERO PCB Rev 1.1 without FAN.   
 Line#3:ZERO PCB Rev 1.4 without FAN.   
 Line#4:ZERO PCB Rev 1.4 with FAN.   
