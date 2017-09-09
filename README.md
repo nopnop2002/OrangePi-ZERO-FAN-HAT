@@ -1,13 +1,12 @@
 # OrangePi-ZERO-FAN-HAT
 FAN HAT for OrangePi ZERO   
 It's possible to attach 30mm FAN on this board.   
+You can order your PCB by yourself.   
 
 ![fan-hat-7](https://user-images.githubusercontent.com/6020549/30236881-e1022aa0-955f-11e7-981e-05ddf31f22e0.JPG)
 
 
 ----
-
-You can order your PCB by yourself.   
 
 How to order PCB:   
 
@@ -34,7 +33,7 @@ This is my order information.
 
 ----
 
-This HAT has IR Recever Circit:   
+This HAT has IR Receiver Circuit:   
 R1:10Ohm   
 R2:20Ohm   
 R3:10Ohm   
