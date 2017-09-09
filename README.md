@@ -1,5 +1,6 @@
 # OrangePi-ZERO-FAN-HAT
-FAN HAT for OrangePi ZERO
+FAN HAT for OrangePi ZERO   
+It's possible to attach 30mm FAN on this board.   
 
 ![fan-hat-7](https://user-images.githubusercontent.com/6020549/30236881-e1022aa0-955f-11e7-981e-05ddf31f22e0.JPG)
 
@@ -38,6 +39,8 @@ R1:10Ohm
 R2:20Ohm   
 R3:10Ohm   
 C1:47uF   
+J5:Fan Power   
+J3:IR receiver module   
 
 ----
 
