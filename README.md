@@ -23,7 +23,7 @@ OpiZero.TXT
 OpiZero.GML   
 
 
-You can see a file using Gerber Viewer.   
+You can see these file using Gerber Viewer.   
 https://sourceforge.net/projects/gerbv/   
 
 You can order by Elecrow or FusionPCB using these file.   
