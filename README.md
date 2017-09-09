@@ -39,7 +39,7 @@ R2:200 Ohm
 R3:100 Ohm   
 C1:47uF   
 J5:Fan Power   
-J3:IR receiver module   
+J3:IR receiver module(5V,Gnd,Data)   
 
 ----
 
