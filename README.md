@@ -53,11 +53,16 @@ J3:IR receiver module(5V,Gnd,Data)
 
 ----
 
-Line#1 ZERO PCB Rev 1.1 temperature without FAN.   
-Line#3 ZERO PCB Rev 1.4 temperature without FAN.   
-Line#4 ZERO PCB Rev 1.4 temperature with FAN.   
+/sys/devices/virtual/thermal/thermal_zone0/temp.   
+Line#1:ZERO PCB Rev 1.1 without FAN.   
+Line#3:ZERO PCB Rev 1.4 without FAN.   
+Line#4:ZERO PCB Rev 1.4 with FAN.   
 
 ![fan-hat-9](https://user-images.githubusercontent.com/6020549/30236883-e5f5fdc0-955f-11e7-8895-50cc09fd9373.JPG)
+
+LeftUpper:ZERO PCB Rev 1.1 without FAN.   
+RightMiddle:ZERO PCB Rev 1.4 without FAN.   
+LeftLower:ZERO PCB Rev 1.4 with FAN.   
 
 ![fan-hat-8](https://user-images.githubusercontent.com/6020549/30236884-e9c0f644-955f-11e7-8b4c-6276a1f41309.JPG)
 
