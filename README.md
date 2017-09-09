@@ -33,11 +33,11 @@ This is my order information.
 
 ----
 
-IR Recever Circit:   
-R1:10Ohm
-R2:20Ohm
-R3:10Ohm
-C1:47uF
+This HAT has IR Recever Circit:   
+R1:10Ohm   
+R2:20Ohm   
+R3:10Ohm   
+C1:47uF   
 
 ----
 
@@ -48,6 +48,12 @@ C1:47uF
 ![fan-hat-5](https://user-images.githubusercontent.com/6020549/30236877-cdc38128-955f-11e7-9f76-9d0f30d49631.JPG)
 
 ![fan-hat-6](https://user-images.githubusercontent.com/6020549/30236879-d510ee66-955f-11e7-84b1-5888b6e463aa.JPG)
+
+----
+
+Line#1 ZERO PCB Rev 1.1 without FAN.   
+Line#3 ZERO PCB Rev 1.4 without FAN.   
+Line#4 ZERO PCB Rev 1.4 with FAN.   
 
 ![fan-hat-9](https://user-images.githubusercontent.com/6020549/30236883-e5f5fdc0-955f-11e7-8895-50cc09fd9373.JPG)
 
