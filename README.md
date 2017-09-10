@@ -17,7 +17,7 @@ You can see these file using Gerber Viewer.
 https://sourceforge.net/projects/gerbv/   
 
 You can order by Elecrow or FusionPCB using these file.   
-This is my order(to Elecrow) information.   
+This is my order (to Elecrow) information.   
 
 ![orderinformation](https://user-images.githubusercontent.com/6020549/30236849-dec78f06-955e-11e7-9ac2-2fa6ef892bd1.JPG)
 
