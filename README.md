@@ -10,18 +10,8 @@ You can order your PCB by yourself.
 
 How to order PCB:   
 
-Zip garbar file.   
+Zip garbar file in garbar folder.   
 Everything is good for the ZIP file name.   
-
-OpiZero.GTL   
-OpiZero.GBL   
-OpiZero.GTS   
-OpiZero.GBS   
-OpiZero.GTO   
-OpiZero.GBO   
-OpiZero.TXT   
-OpiZero.GML   
-
 
 You can see these file using Gerber Viewer.   
 https://sourceforge.net/projects/gerbv/   
