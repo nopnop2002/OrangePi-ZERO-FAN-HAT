@@ -24,8 +24,8 @@ This is my order (to Elecrow) information.
 ----
 
 This HAT has IR Receiver Circuit:   
-R1:100 Ohm   
-R2:200 Ohm   
+R1:200 Ohm   
+R2:100 Ohm   
 R3:100 Ohm   
 C1:47uF   
 J5:Fan Power   
