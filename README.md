@@ -1,5 +1,5 @@
 # OrangePi-ZERO-FAN-HAT
-FAN HAT for OrangePi ZERO.   
+Cooling FAN HAT for OrangePi ZERO.   
 It's possible to attach 25mm/30mm FAN on your board.   
 You can order your PCB by yourself.   
 
