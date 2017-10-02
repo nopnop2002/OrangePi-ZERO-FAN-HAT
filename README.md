@@ -59,5 +59,4 @@ LeftLower:ZERO PCB Rev 1.4 with FAN.
 
 ![fan-hat-8](https://user-images.githubusercontent.com/6020549/30236884-e9c0f644-955f-11e7-8b4c-6276a1f41309.JPG)
 
-There is a metal spacer for radiation in all boards.   
-
+A metal spacer for cooling is being installed in all boards.   
