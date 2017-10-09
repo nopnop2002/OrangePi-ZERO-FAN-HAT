@@ -9,6 +9,9 @@ You can order your PCB by yourself.
 25mm Fan   
 ![fan-hat-5](https://user-images.githubusercontent.com/6020549/30744920-21e12a60-9fdf-11e7-9b45-9c3c2c49a951.JPG)
 
+30mm Fan TypeB   
+![fan-hat-4](https://user-images.githubusercontent.com/6020549/31325117-794bcd24-acf4-11e7-9f82-81e12659859c.JPG)
+
 ----
 
 How to order PCB:   
