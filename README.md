@@ -6,15 +6,15 @@ You can order your PCB by yourself.
 30mm Fan TypeA   
 ![fan-hat-7](https://user-images.githubusercontent.com/6020549/30236881-e1022aa0-955f-11e7-981e-05ddf31f22e0.JPG)
 
-25mm Fan   
-![fan-hat-5](https://user-images.githubusercontent.com/6020549/30744920-21e12a60-9fdf-11e7-9b45-9c3c2c49a951.JPG)
-
 30mm Fan TypeB   
 ![fan-hat-3](https://user-images.githubusercontent.com/6020549/31325196-580348d0-acf5-11e7-92d4-9993d64543e4.JPG)
 
-Left:TypeB   
-Right:TypeA   
+Left:30mm TypeB   
+Right:30mm TypeA   
 ![fan-hat-4](https://user-images.githubusercontent.com/6020549/31325117-794bcd24-acf4-11e7-9f82-81e12659859c.JPG)
+
+25mm Fan   
+![fan-hat-5](https://user-images.githubusercontent.com/6020549/30744920-21e12a60-9fdf-11e7-9b45-9c3c2c49a951.JPG)
 
 ----
 
