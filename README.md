@@ -20,10 +20,10 @@ Right:30mm TypeA
 
 How to order PCB:   
 
-Zip garbar file in garbar folder.   
-Everything is good for the ZIP file name.   
+Zip the files in the garbar folder.   
+There are no restrictions on the ZIP file name.   
 
-You can see these file using Gerber Viewer.   
+These files can be viewed using the Gerber Viewer.   
 https://sourceforge.net/projects/gerbv/   
 
 You can order by Elecrow or FusionPCB using these file.   
