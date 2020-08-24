@@ -18,8 +18,7 @@ Right:30mm TypeA
 
 ----
 
-How to order PCB:   
-
+## How to order PCB   
 Zip the files in the garbar folder.   
 There are no restrictions on the ZIP file name.   
 
@@ -33,7 +32,8 @@ This is my order (to Elecrow) information.
 
 ----
 
-This HAT has IR Receiver Circuit:   
+## IR Receiver Circuit   
+This HAT has IR Receiver Circuit.   
 R1:200 Ohm(1/6W)   
 R2:100 Ohm(1/6W)   
 R3:100 Ohm(1/6W)   
